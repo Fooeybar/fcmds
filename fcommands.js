@@ -7,7 +7,7 @@ function clrF(int=0,escape='\x1b'){
 };
 
 const CONFIG={
-    title:'fcmds'
+    title:'fcommands'
    ,escape:'\x1b'
    ,prompt_tag:'~>'
    ,prompt_color:46
@@ -28,7 +28,7 @@ const CMD={
 
 let init=true;
 
-function fcmds(config=CONFIG,cmd1=CMD,cmd2=CMD,cmd3=CMD){
+function fcommands(config=CONFIG,command1=CMD,command2=CMD,command3=CMD){
 
     if(init===false)return config;
 
@@ -206,4 +206,4 @@ function fcmds(config=CONFIG,cmd1=CMD,cmd2=CMD,cmd3=CMD){
     return config;
 };
 
-module.exports=fcmds;
+module.exports=fcommands;
