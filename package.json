@@ -20,6 +20,8 @@
     ,"cli"
     ,"project"
     ,"console"
+    ,"readline"
+    ,"onLine"
   ],
   "author": "Fooybar",
   "license": "Apache-2.0",
