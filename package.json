@@ -1,0 +1,30 @@
+{
+  "name": "fcommands",
+  "version": "0.0.1",
+  "description": "Simple terminal command utility",
+  "main": "fcommands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fooeybar/fcommands.git"
+  },
+  "keywords": [
+    "simple"
+    ,"terminal"
+    ,"commands"
+    ,"utility"
+    ,"stdin"
+    ,"stdout"
+    ,"cli"
+    ,"project"
+    ,"console"
+  ],
+  "author": "Fooybar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Fooeybar/fcommands/issues"
+  },
+  "homepage": "https://github.com/Fooeybar/fcommands#readme"
+}
